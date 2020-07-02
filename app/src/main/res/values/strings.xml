@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UILearn</string>
+    <string-array name="spinner_online_orders">
+        <item>orders</item>
+        <item>completed</item>
+        <item>cancelled</item>
+    </string-array>
+</resources>
